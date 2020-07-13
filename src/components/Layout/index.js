@@ -4,7 +4,6 @@ import Logo from '../../assets/webmotors.svg';
 import BotaoProcurar from '../../components/BotaoProcurar';
 import FiltroPesquisa from '../../components/FiltroPesquisa';
 import Espacamento from '../../components/Espacamento';
-import ListaCarro from '../ListaCarro';
 
 import { Container, Wrapper, Header, Tab, BuscaAvancada, WebHeader } from './styles';
 
